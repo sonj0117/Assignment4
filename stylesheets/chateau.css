@@ -55,7 +55,7 @@ a:hover {
 
 @media screen and (min-width: 480px) {
   header {
-    background-image: url(/images/LogoLarge.png);
+    background-image: url(../images/LogoLarge.png);
     min-height: 100px;
     background-color: #DED1BD;
     color: #683B2B;
